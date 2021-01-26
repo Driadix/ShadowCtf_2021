@@ -1,0 +1,2 @@
+Some hackers hacked our company, our cyber analysts found a network capture that shows that, there was a backdoor in our server. Analyze the network capture to see if you can find something.
+Flag format: ShadowCtf{fl4g_h3r3}
